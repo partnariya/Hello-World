@@ -1,8 +1,8 @@
 # Hello World Repo
 
-👋 Hi! I'm [Your Name]
+👋 Hi! I'm Parth
 
-- 🎓 College: [Your College]
+- 🎓 College: SVGU
 - 💻 Languages: C, Python, Java
 - 🎯 Goals: Learn Git & GitHub, build projects, and contribute to open source.
 
